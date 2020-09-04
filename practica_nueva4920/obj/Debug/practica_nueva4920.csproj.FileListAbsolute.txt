@@ -1,0 +1,7 @@
+C:\Users\marco\Desktop\practica_C#_4920\practica_nueva4920\practica_nueva4920\bin\Debug\practica_nueva4920.exe.config
+C:\Users\marco\Desktop\practica_C#_4920\practica_nueva4920\practica_nueva4920\bin\Debug\practica_nueva4920.exe
+C:\Users\marco\Desktop\practica_C#_4920\practica_nueva4920\practica_nueva4920\bin\Debug\practica_nueva4920.pdb
+C:\Users\marco\Desktop\practica_C#_4920\practica_nueva4920\practica_nueva4920\obj\Debug\practica_nueva4920.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\practica_C#_4920\practica_nueva4920\practica_nueva4920\obj\Debug\practica_nueva4920.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\practica_C#_4920\practica_nueva4920\practica_nueva4920\obj\Debug\practica_nueva4920.exe
+C:\Users\marco\Desktop\practica_C#_4920\practica_nueva4920\practica_nueva4920\obj\Debug\practica_nueva4920.pdb
